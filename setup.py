@@ -6,6 +6,7 @@ setup(
     description = 'docker wrapper for local dev env',
     author = 'ashraf minhaj',
     author_email = 'ashraf_minhaj@yahoo.com',
+    url='https://github.com/ashraf-minhaj/Dockona',
     version='1.0.0',
     packages=find_packages(),
     install_requires=[
